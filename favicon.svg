@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#01696f"/>
+  <!-- Open book -->
+  <path d="M7 10.5 C7 10 7.5 9.5 8 9.5 L15 9.5 L15 23 C15 23 12 22 8 23.5 C7.5 23.7 7 23.3 7 22.8 Z" fill="white" opacity="0.95"/>
+  <path d="M25 10.5 C25 10 24.5 9.5 24 9.5 L17 9.5 L17 23 C17 23 20 22 24 23.5 C24.5 23.7 25 23.3 25 22.8 Z" fill="white" opacity="0.95"/>
+  <line x1="15" y1="9.5" x2="17" y2="9.5" stroke="#01696f" stroke-width="1"/>
+  <!-- Speed lines -->
+  <line x1="19" y1="13" x2="23" y2="13" stroke="#7ececa" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/>
+  <line x1="19" y1="16" x2="23" y2="16" stroke="#7ececa" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/>
+  <line x1="19" y1="19" x2="22" y2="19" stroke="#7ececa" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Lightning bolt -->
+  <path d="M14 12 L11.5 17 L13.5 17 L11 22 L16 15.5 L13.5 15.5 Z" fill="#f5c842" opacity="0.95"/>
+</svg>
